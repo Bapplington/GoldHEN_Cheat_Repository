@@ -1,0 +1,14 @@
+{
+    "title": "NBA Live 19",
+    "process": "eboot.bin",
+    "version": "01.01",
+    "cheats": [
+        {
+            "name": "Skill Points",
+            "type": "int32",
+            "address": "0x601440",
+            "value": "{user_input}",
+            "description": "Enter Skill Points manually. You must have at least one."
+        }
+    ]
+}
