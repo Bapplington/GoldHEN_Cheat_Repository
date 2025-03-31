@@ -1,1 +1,11 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFRyYWluZXIgQ3VzYT0iQ1VTQTExMzU1IiBHYW1lPSJOQkEgTGl2ZSAxOSIgTW9kZGVyPSJCYXBwbGluZ3RvbiIgUHJvY2Vzcz0iZWJvb3QuYmluIiBWZXJzaW9uPSIwMS4wMSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSI+CiAgICA8R2VucmVzIE5hbWU9IlNwb3J0cyIvPgogICAgPEl0ZW1zLz4KICAgIDxDaGVhdCBUZXh0PSJTa2lsbCBQb2ludHMiPgogICAgICAgIDxBZGRyZXNzPjB4NjAxNDQwPC9BZGRyZXNzPgogICAgICAgIDxUeXBlPmludDMyPC9UeXBlPgogICAgICAgIDxWYWx1ZT57dXNlcl9pbnB1dH08L1ZhbHVlPgogICAgICAgIDxEZXNjcmlwdGlvbj5FbnRlciBTa2lsbCBQb2ludHMgbWFudWFsbHkuIFlvdSBtdXN0IGhhdmUgYXQgbGVhc3Qgb25lLjwvRGVzY3JpcHRpb24+CiAgICA8L0NoZWF0Pgo8L1RyYWluZXI+Cg==
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11355" Game="NBA Live 19" Modder="Bapplington" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Genres Name="Sports"/>
+    <Items/>
+    <Cheat Text="Skill Points">
+        <Address>0x601440</Address>
+        <Type>int32</Type>
+        <Value>{user_input}</Value>
+        <Description>Enter Skill Points manually. You must have at least one.</Description>
+    </Cheat>
+</Trainer>
