@@ -1,0 +1,26 @@
+{
+  "Game": "NBA LIVE 19",
+  "CUSA": "CUSA11355",
+  "Version": "01.01",
+  "Process": "eboot.bin",
+  "Cheats": [
+    {
+      "Name": "Max Skill Points",
+      "Description": "This sets skill points to 999,999",
+      "Cheatlines": [
+        {
+          "Absolute": true,
+          "Section": 0,
+          "Address": "601440",
+          "Value": "3F-42-0F-00"
+        },
+        {
+          "Absolute": true,
+          "Section": 0,
+          "Offset": "575CF9",
+          "Value": "E9-02-1B-40-03-90-90-90"
+        }
+      ]
+    }
+  ]
+}
