@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11355" Game="NBA Live 19" Modder="Bapplington" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Genres Name="Sports"/>
+    <Items/>
+    <Cheat Text="Skill Points">
+        <Address>0x601440</Address>
+        <Type>int32</Type>
+        <Value>{user_input}</Value>
+        <Description>Enter Skill Points manually. You must have at least one.</Description>
+    </Cheat>
+</Trainer>

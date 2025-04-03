@@ -703,3 +703,4 @@ CUSA00540_01.00.mc4.xml=Tiny Troopers
 CUSA03589_01.06.mc4.xml=Mortal Kombat XL
 CUSA13717_01.00.mc4.xml=Lost Artifacts Soulstone
 CUSA02419_01.00.mc4.xml=Darksiders II Deathinitive Edition
+CUSA11355_01.01.mc4.xml=Nba Live 19

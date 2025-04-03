@@ -775,3 +775,4 @@ CUSA12584_01.33.shn=Dying light 2
 SLPM62165_01.00.shn=Shikigami no Shiro
 CUSA34390_06.02.shn=God Of War Ragnarok
 CUSA14054_01.04.shn=One Piece World Seeker
+CUSA11355_01.01.shn=Nba Live 19

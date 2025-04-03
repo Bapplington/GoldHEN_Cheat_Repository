@@ -1322,3 +1322,4 @@ CUSA07399_01.00.json=Crash Bandicoot N Sane Trilogy
 CUSA08500_01.10.json=NBA 2K18
 CUSA34386_04.00.json=God of War Ragnarök
 CUSA08216_01.10.json=Devil May Cry 5
+CUSA11355_01.01.json=Nba Live 19
